@@ -1,6 +1,3 @@
-# easy_haplotyper
-haplotyping tool for nanopore sam file
-
 _Updated: May 17, 2021_
 ## easy_haplotyper
 
